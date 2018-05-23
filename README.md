@@ -1,12 +1,15 @@
 # Functional Safety of a Lane Assistance System
 
 
-
-Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
+### Project Description
+The job was to create functional safety documents based the lessons in the classroom. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
 
 
 ### Description of Repo Files
 
+The final PDF's are present in [Final_PDFs](Final_PDFs/) folder in the repo. [Functional_Safety_Final_Docs](Functional_Safety_Final_Docs/) folder contains the original word and spreadsheets.
+
+#### Udacity Provided Docs
 This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the Google Drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
 
 
@@ -27,11 +30,6 @@ You will need to fill out all five of these documents in order to meet specifica
 
 The repo also contains an Architecture_Diagrams folder containing visuals that you will need to complete the reports. These visuals are in no particular order, and you will decide in which document or documents they belong.
 
-
-### Project Rubric
-You can find the project rubric in the classroom. 
-
-
 ### Software
 
 To complete the project, you will need a word processor and spreadsheet software.
@@ -40,10 +38,4 @@ If you do not have word processing software on your local computer, we suggest u
 
 There are also open source word processors such as [LibreOffice](https://www.libreoffice.org/]) and [OpenOffice](https://www.openoffice.org).
 
-
-### Submitting
-For your project submission, please export your work into pdf files. This will ensure that reviewers can review your work no matter what word processing and spreadsheet software you used.
-
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
